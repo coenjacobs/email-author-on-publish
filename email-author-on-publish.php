@@ -3,6 +3,7 @@
 /*
 Plugin Name: Email Author On Publish
 Description: Emails author when pending post is published.
+Version: 1.0
 Author: Coen Jacobs
 Author URI: http://coenjacobs.me
 */
