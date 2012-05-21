@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: CoenJacobs
 Donate link: http://coenjacobs.me/donate
-Tags: creative commons
+Tags: pending, publish, author
 Requires at least: 3.0
 Tested up to: 3.4
 Stable tag: 1.0
